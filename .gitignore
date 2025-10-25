@@ -1,0 +1,11 @@
+.DS_Store
+.env
+**/__pycache__/
+*.py[cod]
+*.pyo
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+work
+backend/media/reports
+backend/media/uploads
