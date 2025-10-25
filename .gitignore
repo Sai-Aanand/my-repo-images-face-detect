@@ -7,5 +7,3 @@ backend/.venv/
 frontend/node_modules/
 frontend/dist/
 work
-backend/media/reports
-backend/media/uploads
